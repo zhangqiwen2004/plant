@@ -1,0 +1,1 @@
+TREND_PRESETS = [7, 14, 30]
